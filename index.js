@@ -1,7 +1,1 @@
-array.forEach(element => {
-    
-});
-
-setTimeout(() => {
-    
-}, timeout);
+ console.log("hfhf");
