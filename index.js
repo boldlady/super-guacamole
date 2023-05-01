@@ -1,2 +1,7 @@
-console.log("hello");
-console.log("ghanta");
+array.forEach(element => {
+    
+});
+
+setTimeout(() => {
+    
+}, timeout);
